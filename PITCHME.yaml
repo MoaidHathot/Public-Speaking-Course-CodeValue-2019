@@ -70,3 +70,4 @@ footnote : " "
 #
 published : true
 
+eager-loading : true
