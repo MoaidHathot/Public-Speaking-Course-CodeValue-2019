@@ -72,14 +72,22 @@ Sous Vide
 @snapend
 @snap[midpoint fragment]
 Under Vacuum
+<br><br><br><br>
 @snapend
-@snap[south-west span-30 fragment]
+@snap[south span-37 fragment]
+@img[](assets/img/sous-vide-01.png)
+@snapend
+---
+@snap[north span-100]
+## Requirements
+@snapend
+@snap[west span-30 fragment]
 @img[](assets/img/steak-vacuum-sealed-01.jpg)
 @snapend
-@snap[south span-20 fragment]
+@snap[midpoint span-20 fragment]
 @img[](assets/img/anova-precision-nano-01.jpg)
 @snapend
-@snap[south-east span-22 fragment]
+@snap[east span-22 fragment]
 @img[](assets/img/container-01.jpg)
 @snapend
 ---
@@ -112,7 +120,7 @@ Standalone
 ---
 @transition[fade]
 @snap[north span-100]
-## Bags
+## Vacuum
 @snapend
 @snap[west span-50 fragment]
 @img[](assets/img/vacuum-01.png)
@@ -125,9 +133,10 @@ Standalone
 ---?image=assets/img/anova-precision-pro-04.jpg
 <!-- ---?image=assets/img/before-searing-02-reduced.jpg -->
 ---?image=assets/img/before-searing-01-bigger.jpg
----?image=assets/img/steak-searing-01.jpg
+---?image=assets/img/steak-searing-05.jpg
 ---?image=assets/img/steak-searing-02-reduced.jpg
----?image=assets/img/steak-16.jpg
+<!-- ---?image=assets/img/steak-16.jpg -->
+---?image=assets/img/steak-transparent-01.png&size=40%
 @transition[fade]
 ---
 @transition[fade]
@@ -188,7 +197,7 @@ Standalone
 @snapend
 @snap[midpoint span-100]
 <br><br>
-## Enjoy
+## Bon appetit
 @snapend
 ---?image=assets/img/steak-transparent-01.png&opacity=30
 @transition[fade]
