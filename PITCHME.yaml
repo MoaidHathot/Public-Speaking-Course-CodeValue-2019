@@ -6,6 +6,10 @@
 # Theme Setting
 # Doc: https://gitpitch.com/docs/themes/default
 #
+
+title            : Intro to Sous Vide
+
+
 theme             : template
 
 theme-background : [ "black" ]
