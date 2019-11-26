@@ -77,19 +77,19 @@ Under Vacuum
 @snap[south span-37 fragment]
 @img[](assets/img/sous-vide-01.png)
 @snapend
----
-@snap[north span-100]
-## Requirements
-@snapend
-@snap[west span-30 fragment]
-@img[](assets/img/steak-vacuum-sealed-01.jpg)
-@snapend
-@snap[midpoint span-22 fragment]
-@img[](assets/img/container-01.jpg)
-@snapend
-@snap[east span-20 fragment]
-@img[](assets/img/anova-precision-nano-01.jpg)
-@snapend
+<!-- --- -->
+<!-- @snap[north span-100] -->
+<!-- ## Requirements -->
+<!-- @snapend -->
+<!-- @snap[west span-30 fragment] -->
+<!-- @img[](assets/img/steak-vacuum-sealed-01.jpg) -->
+<!-- @snapend -->
+<!-- @snap[midpoint span-22 fragment] -->
+<!-- @img[](assets/img/container-01.jpg) -->
+<!-- @snapend -->
+<!-- @snap[east span-20 fragment] -->
+<!-- @img[](assets/img/anova-precision-nano-01.jpg) -->
+<!-- @snapend -->
 ---
 @transition[fade]
 @snap[north span-100]
