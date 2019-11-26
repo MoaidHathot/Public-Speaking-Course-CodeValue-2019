@@ -84,24 +84,22 @@ Under Vacuum
 @snap[west span-30 fragment]
 @img[](assets/img/steak-vacuum-sealed-01.jpg)
 @snapend
-@snap[midpoint span-20 fragment]
-@img[](assets/img/anova-precision-nano-01.jpg)
-@snapend
-@snap[east span-22 fragment]
+@snap[midpoint span-22 fragment]
 @img[](assets/img/container-01.jpg)
+@snapend
+@snap[east span-20 fragment]
+@img[](assets/img/anova-precision-nano-01.jpg)
 @snapend
 ---
 @transition[fade]
 @snap[north span-100]
-## Circulators
+## Vacuum
 @snapend
-@snap[west span-30 text-center fragment]
-@img[](assets/img/Sous-Vide-Supreme_01.jpg)
-All in one
+@snap[west span-50 fragment]
+@img[](assets/img/vacuum-01.png)
 @snapend
-@snap[east span-40 text-center fragment]
-@img[](assets/img/ChefSteps-Joule-vs-Anova-Precision-Cooker.jpg)
-Standalone
+@snap[east span-50 fragment]
+@img[](assets/img/ziplock-02.png)
 @snapend
 ---
 @transition[fade]
@@ -120,14 +118,17 @@ Standalone
 ---
 @transition[fade]
 @snap[north span-100]
-## Vacuum
+## Circulators
 @snapend
-@snap[west span-50 fragment]
-@img[](assets/img/vacuum-01.png)
+@snap[west span-30 text-center fragment]
+@img[](assets/img/Sous-Vide-Supreme_01.jpg)
+All in one
 @snapend
-@snap[east span-50 fragment]
-@img[](assets/img/ziplock-02.png)
+@snap[east span-40 text-center fragment]
+@img[](assets/img/ChefSteps-Joule-vs-Anova-Precision-Cooker.jpg)
+Standalone
 @snapend
+
 ---?image=assets/img/anova-precision-pro-03.jpg
 ---?image=assets/img/anova-precision-pro-02.jpg
 ---?image=assets/img/anova-precision-pro-04.jpg
@@ -145,11 +146,14 @@ Standalone
 @snapend
 @snap[west snap-40]
 ### Plastic Bags
+@snapend
+@snap[west snap-40 fragment]
+<br><br><br><br>
 - Polypropylene
 - High-density Polypropylene
 - Low-density Polypropylene
 @snapend
-@snap[east snap-30]
+@snap[east snap-30 fragment]
 @img[](assets/img/ziplock-02.png)
 @snapend
 ---
@@ -157,8 +161,11 @@ Standalone
 @snap[north span-100]
 ## Food Safety
 @snapend
-@snap[west snap-40 text-left]
+@snap[west snap-100 text-center]
 ### Safe Temperature
+@snapend
+@snap[west nap-100 text-left fragment]
+<br><br><br>
 - Pasteurization = Time + Temperature
 - No lower than 52 celsius
 @snapend
